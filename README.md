@@ -1,4 +1,4 @@
-# PromotionskollegModule6800_2020
+# PromotionskollegModule6800_2021
 Course material and links for Promotionskolleg module "Machine learning in applied economics"
 ### Instructors 
 Kathy Baylis - University of California, Santa Barbara, USA
@@ -10,7 +10,7 @@ Hugo Storm - DHL and University of Bonn, Germany
 ### Links to Intro material
 
 - [Intro slides](https://docs.google.com/presentation/d/1y5iono-CsO2mPmB-yU7PqYTYPmlMHBLME5afiJw-1Ls/edit?usp=sharing)
-- [Intro jupyter notebook](https://github.com/heckelei/PromotionskollegModule6800_2020/blob/master/labIntro.ipynb)
+- [Intro jupyter notebook](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2021/blob/main/labIntro.ipynb)
 
 ### Links to Day 1 material 
 
@@ -18,7 +18,7 @@ Hugo Storm - DHL and University of Bonn, Germany
 - [Day 1 video part I - Intro to ML with OLS](https://youtu.be/0dJmWUDkzNY)
 - [Day 1 video part II - Overfitting and train/test split](https://youtu.be/_kFbZaCVNlc)
 - [Day 1 video part III - Penalized Regression](https://youtu.be/6KofZlteszw)
-- [Day 1 jupyter notebook for lecture and lab](https://github.com/heckelei/PromotionskollegModule6800_2020/blob/master/6800_Day1.ipynb)
+- [Day 1 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2021/blob/main/6800_Day1.ipynb)
 
 ### Links to Day 2 material 
 
@@ -27,7 +27,7 @@ Hugo Storm - DHL and University of Bonn, Germany
 - [Day 2 video part II - Random Forest and Boosted trees](https://youtu.be/lD0Gju_MIdA)
 - [Day 2 video part III - Intro to interpreting ML Models](https://youtu.be/NGGad3aM0lw)
 - [Day 2 video part IV - Visualizing marginal effects](https://youtu.be/agjwrG2m1go)
-- [Day 2 jupyter notebook for lecture and lab](https://github.com/heckelei/PromotionskollegModule6800_2020/blob/master/6800_Day2.ipynb)
+- [Day 2 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2021/blob/main/6800_Day2.ipynb)
 
 
 ### Links to Day 3 material 
@@ -36,7 +36,7 @@ Hugo Storm - DHL and University of Bonn, Germany
 - [Day 3 video part I - Shap-values](https://youtu.be/D6M0V1YGQH4)
 - [Day 3 video part II - Other approaches to interpreting ML Models](https://youtu.be/_CV2DjXEgfw)
 - [Day 3 video part III - Intro Neural Networks and Autoencoder](https://youtu.be/3sldUdcAhX4)
-- [Day 3-4 jupyter notebook for lecture and lab](https://github.com/heckelei/PromotionskollegModule6800_2020/blob/master/6800_Day3-4.ipynb)
+- [Day 3-4 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2021/blob/main/6800_Day3-4.ipynb)
 
 
 ### Links to Day 4 material 
@@ -46,7 +46,7 @@ Hugo Storm - DHL and University of Bonn, Germany
 - [Day 4 video part II - NN-applications](https://youtu.be/ERtXTGVoOVA)
 - [Day 4 video part III - Review of causal identification issues](https://youtu.be/rraN7suQYps)
 - [Day 4 video part IV - True model selection with LASSO](https://youtu.be/dNTZ-w4-CyE)
-- [Day 4-5 jupyter notebook for lecture and lab](https://github.com/heckelei/PromotionskollegModule6800_2020/blob/master/6800_Day4-5.ipynb)
+- [Day 4-5 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2021/blob/main/6800_Day4-5.ipynb)
 
 
 ### Links to Day 5 material 
@@ -54,4 +54,4 @@ Hugo Storm - DHL and University of Bonn, Germany
 - [Day 5 video part I - Intro to causal identification with ML](https://youtu.be/Vam7F5NCIn4)
 - [Day 5 video part II - Counterfactual Simulation, Matching, Causal Forest](https://youtu.be/b1uzoTIYHiU)
 - [Day 5 video part III - Double ML, Panel, Deep IV](https://youtu.be/tWmqwULSPWw)
-- [Day 4-5 jupyter notebook for lecture and lab](https://github.com/heckelei/PromotionskollegModule6800_2020/blob/master/6800_Day4-5.ipynb)
+- [Day 4-5 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2021/blob/main/6800_Day4-5.ipynb)
