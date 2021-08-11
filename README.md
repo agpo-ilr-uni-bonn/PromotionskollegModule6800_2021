@@ -5,7 +5,7 @@ Kathy Baylis - University of California, Santa Barbara, USA
 
 Thomas Heckelei - University of Bonn, Germany
 
-Hugo Storm - DHL and University of Bonn, Germany
+Hugo Storm - University of Bonn, Germany
 
 ### Links to Intro material
 
